@@ -14,6 +14,9 @@ env/
 .ipynb_checkpoints/
 
 # Model files (use Git LFS or HuggingFace Hub)
+*.h5
+model/
+trainedModel/
 
 # Large data files
 processed_audio_files/
