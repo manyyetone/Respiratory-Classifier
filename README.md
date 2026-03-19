@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Here is a detailed folder setup to help you get started:
 
 ```
-Respiratory-Disorder-Classification (Main Project Folder)
+Respiratory-Classification (Main Project Folder)
 ├── Respiratory_Sound_Database/
 │   └── audio_and_txt_files/, etc.
 ├── backend/
@@ -56,7 +56,7 @@ Respiratory-Disorder-Classification (Main Project Folder)
 ├── .gitignore
 ├── demographic_info.txt
 ├── README.md
-└── respiratory_disorder_classification.ipynb
+└── respiratory_classification.ipynb
 ```
 
 Creating a virtual environment (Windows):
