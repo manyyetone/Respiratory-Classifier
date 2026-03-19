@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model files (use Git LFS or HuggingFace Hub)
+*.h5
+model/
+trainedModel/
+
+# Large data files
+processed_audio_files/
+Respiratory_Sound_Database/
+demo_audio_files/
+csv_data/
+
+# Feature files (regeneratable from notebook)
+mfcc_variable_*.txt
+cstft_variable_*.txt
+mSpec_variable_*.txt
+*.npy
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
